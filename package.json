@@ -1,0 +1,16 @@
+{
+    "name": "com.unity.testgit",
+    "version": "0.0.1",
+    "description": "This is a test package used for testing Package Manager",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/markaszagorskas/com.unity.testgit.git"
+    },
+    "author": {
+        "name": "markaszagorskas",
+        "email": "markas.zagorskas@unity3d.com",
+        "url": ""
+    },
+    "displayName": "Test Git"
+  }
